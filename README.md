@@ -6,6 +6,8 @@ ML weather models such as GraphCast, Pangu-Weather and FuXi learn only from past
 
 ## Data
 
+> The raw inputs are not in this repository. [DATA.md](DATA.md) records exactly which files were used, with sizes and fingerprints, and how to re-fetch them.
+
 | What | Source |
 |---|---|
 | Truth and climatology | ERA5 2 m temperature 1959 to 2020, 6-hourly, 1.5 degree grid (WeatherBench 2) |
